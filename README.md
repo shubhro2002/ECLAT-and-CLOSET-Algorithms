@@ -70,5 +70,5 @@ T3: Milk, Bread
 
 Clone the repository:
 ```bash
- git clone https://github.com/yourusername/transaction-pattern-mining.git
+ git clone https://github.com/shubhro2002/ECLAT-and-CLOSET-plus-Algorithms.git
  cd transaction-pattern-mining
